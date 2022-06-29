@@ -6,7 +6,7 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-	<Router basename='/react-food-spa'>
+	<Router basename='/food-catalog-spa'>
 		<App />
 	</Router>
 );
