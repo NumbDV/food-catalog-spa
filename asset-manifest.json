@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-catalog-spa/static/css/main.010ab3ed.css",
+    "main.js": "/food-catalog-spa/static/js/main.6d4529bd.js",
+    "index.html": "/food-catalog-spa/index.html",
+    "main.010ab3ed.css.map": "/food-catalog-spa/static/css/main.010ab3ed.css.map",
+    "main.6d4529bd.js.map": "/food-catalog-spa/static/js/main.6d4529bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010ab3ed.css",
+    "static/js/main.6d4529bd.js"
+  ]
+}
